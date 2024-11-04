@@ -1,1 +1,1 @@
-# firstproject
+# Az első GIT-em
